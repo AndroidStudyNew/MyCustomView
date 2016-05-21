@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="customTitleText" format="string"/>
+    <attr name="customTitleTextColor" format="color"/>
+    <attr name="customTitleTextSize" format="dimension"/>
+
+    <declare-styleable name="CustomTitleView">
+        <attr name="customTitleText"/>
+        <attr name="customTitleTextColor"/>
+        <attr name="customTitleTextSize"/>
+    </declare-styleable>
+
+    <attr name="ctext" format="string"/>
+    <attr name="ctextColor" format="color"/>
+    <attr name="ctextSize" format="dimension"/>
+    <attr name="ctextSpellColor" format="color"/>
+    <attr name="ctextLinePadding" format="dimension"/>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="ctext"/>
+        <attr name="ctextColor"/>
+        <attr name="ctextSize"/>
+        <attr name="ctextSpellColor"/>
+        <attr name="ctextLinePadding"/>
+    </declare-styleable>
+</resources>
