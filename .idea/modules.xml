@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyCustomView.iml" filepath="$PROJECT_DIR$/MyCustomView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/spelltext/spelltext.iml" filepath="$PROJECT_DIR$/spelltext/spelltext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tagcloudview/tagcloudview.iml" filepath="$PROJECT_DIR$/tagcloudview/tagcloudview.iml" />
     </modules>
   </component>
 </project>

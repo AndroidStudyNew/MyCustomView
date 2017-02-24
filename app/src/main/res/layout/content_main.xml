@@ -12,8 +12,15 @@
     tools:context="com.sjtu.charles.activity.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <com.sjtu.charles.tagcloudview.TagCloudView
+        android:id="@+id/tag_cloud_view_0"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        app:tcvItemBorderHorizontal="8dp"
+        app:tcvItemBorderVertical="6dp"
+        app:tcvBorder="8dp"
+        app:tcvTextColor="#123455"
+        app:tcvTextSize="12"
+        app:tcvShowRightImg="false"
+        app:tcvSingleLine="true" />
 </RelativeLayout>

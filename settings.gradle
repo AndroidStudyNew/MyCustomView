@@ -1,1 +1,1 @@
-include ':app', ':spelltext'
+include ':app', ':spelltext', ':tagcloudview'
